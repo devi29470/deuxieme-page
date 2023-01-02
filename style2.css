@@ -1,0 +1,114 @@
+body{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color:#010101;
+  color:#FDFEFE;
+}
+h1{
+	text-align:center;
+	font-weight:bold;
+	font-size:300%;
+}
+.photo-virgil1{
+	position:absolute;
+	left:720px;
+    bottom:520px;
+}
+.photo-virgil2{
+	position:absolute;
+	left:720px;
+    bottom:-220px;
+}
+.photo-virgil3{
+	position:absolute;
+	left:720px;
+    bottom:-1120px;
+}
+.photo-virgil4{
+	position:absolute;
+	left:780px;
+    bottom:-2220px;
+}
+.photo-virgil5{
+	position:absolute;
+	left:680px;
+    bottom:-3120px;
+}
+.photo-virgil6{
+	position:absolute;
+	left:720px;
+    bottom:-4120px;
+}
+.photo-virgil7{
+	position:absolute;
+	left:720px;
+    bottom:-5120px;
+}
+.photo-virgil8{
+	position:absolute;
+	left:720px;
+    bottom:-6120px;
+}
+#p1{
+	font-size:160%;
+	text-align:center;
+	position:absolute;
+    bottom:450px;
+	text-decoration:underline;
+	left:770px
+}
+#p2{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-280px;
+	 left:780px
+}
+#p3{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-1294px;
+	 left:800px
+}
+#p4{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-2300px;
+	 left:800px
+}
+#p5{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-3205px;
+	 left:730px
+}
+#p6{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-4180px;
+	 left:800px
+}
+#p7{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-5216px;
+	 left:700px
+}
+#p8{
+	font-size:160%;
+	text-align:center;
+	text-decoration:underline;
+	position:absolute;
+	 bottom:-6242px;
+	 left:750px
+}
